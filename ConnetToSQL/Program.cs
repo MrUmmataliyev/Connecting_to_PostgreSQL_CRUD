@@ -46,7 +46,7 @@ class Program
         }
         connection.Close();
     }
-
+    //do hometasks
 
 
     static void Update(NpgsqlConnection connection)
