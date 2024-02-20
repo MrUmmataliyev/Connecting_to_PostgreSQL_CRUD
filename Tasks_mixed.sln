@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnetToSQL", "ConnetToSQL\ConnetToSQL.csproj", "{5F33CAA2-3427-44EF-9848-332FC34FF372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnetToSQL", "ConnetToSQL\ConnetToSQL.csproj", "{5F33CAA2-3427-44EF-9848-332FC34FF372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ", "LinQ\LinQ.csproj", "{901A94A5-ADCB-4BCB-A473-2B182843B161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5F33CAA2-3427-44EF-9848-332FC34FF372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F33CAA2-3427-44EF-9848-332FC34FF372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F33CAA2-3427-44EF-9848-332FC34FF372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901A94A5-ADCB-4BCB-A473-2B182843B161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901A94A5-ADCB-4BCB-A473-2B182843B161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901A94A5-ADCB-4BCB-A473-2B182843B161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901A94A5-ADCB-4BCB-A473-2B182843B161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
